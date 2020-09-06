@@ -1,0 +1,17 @@
+{
+  "name": "npmapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.html",
+    "server": "live server"
+  },
+  "author": "Rishi",
+  "license": "ISC"
+}
